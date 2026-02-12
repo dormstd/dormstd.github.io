@@ -12,6 +12,9 @@ pagerSize = 20
   [caches.images]
     dir = ':cacheDir/images'
 
+[security]
+  enableInlineShortcodes = true
+  
 [services]
 [services.disqus]
 shortname = "yourdiscussshortname"
