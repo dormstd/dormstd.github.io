@@ -11,6 +11,8 @@
   <sitemap>
     <loc>http://localhost:1313/es-es/sitemap.xml</loc>
     
+      <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+    
   </sitemap>
   
 </sitemapindex>

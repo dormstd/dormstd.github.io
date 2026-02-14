@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/es-es/authors/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/es-es/categories/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,7 +28,99 @@
                 href="http://localhost:1313/es-es/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/es-es/categories/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/demonstra%C3%A7%C3%A3o-do-tema/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/es-es/categories/demonstra%C3%A7%C3%A3o-do-tema/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/es-es/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/demonstra%C3%A7%C3%A3o-do-tema/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/es-es/series/demonstra%C3%A7%C3%A3o-do-tema/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/es-es/tags/emoji/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/emoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/es-es/tags/emoji/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/es-es/tags/hugo/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/es-es/tags/hugo/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/es-es/tags/markdown/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/es-es/tags/markdown/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/es-es/posts/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/es-es/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/es-es/authors/programador-solit%C3%A1rio/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/authors/programador-solit%C3%A1rio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/es-es/authors/programador-solit%C3%A1rio/"
+                />
+  </url><url>
     <loc>http://localhost:1313/es-es/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +133,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/es-es/series/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -50,7 +145,34 @@
                 href="http://localhost:1313/es-es/series/"
                 />
   </url><url>
+    <loc>http://localhost:1313/es-es/categories/sintaxe/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/sintaxe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/es-es/categories/sintaxe/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/es-es/posts/emoji-support/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/emoji-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/es-es/posts/emoji-support/"
+                />
+  </url><url>
     <loc>http://localhost:1313/es-es/tags/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,6 +182,43 @@
                 rel="alternate"
                 hreflang="es-es"
                 href="http://localhost:1313/es-es/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/es-es/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/es-es/about/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/es-es/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/es-es/contact/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/es-es/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/es-es/projects/"
                 />
   </url>
 </urlset>
