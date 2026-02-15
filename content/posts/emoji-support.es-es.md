@@ -1,7 +1,8 @@
 +++
+draft=true
 authors = ["Programador Solitário"]
 title = "Suporte a Emojis"
-date = "2023-07-07"
+date = "2026-07-07"
 description = "Um guia de utilização de emojis com Hugo"
 tags = [
     "hugo",

@@ -1,25 +1,42 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "About me section"
+date = "2026-02-26"
+aliases = ["about-us", "about-ricardo", "contact"]
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I am a **Senior Software/Data Engineer** passionate about transforming data chaos into structured, scalable, and automated platforms.
 
-Hugo makes use of a variety of open source projects including:
+Throughout my career, I have evolved from advanced research in European Big Data and AI projects to leading critical architectures within the insurance sector. Currently, I serve as the **Lead Developer** for a major corporate integrated data platform, designing and managing complex ecosystems in multi-cloud environments (**Azure and AWS**). My daily work involves:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* **Orchestrating** pipelines with Apache Airflow.
+* **Scaling** infrastructure on Kubernetes.
+* **Ensuring** continuous delivery through GitOps with ArgoCD.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I firmly believe that cloud provider portals are great for learning, but **Terraform** is the essential tool for production. My approach focuses on eliminating manual processes and the risk of human error through **Infrastructure as Code (IaC)**, turning deployments that once took entire afternoons into flawless processes completed in just a couple of minutes.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+### 🛠 Tech Stack
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+#### **Data Engineering & Orchestration**
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=for-the-badge&logo=databricks&logoColor=white)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+#### **Cloud & Infrastructure (IaC)**
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1628?style=for-the-badge&logo=helm&logoColor=white)
+
+#### **DevOps & GitOps**
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+#### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scala](https://img.shields.io/badge/scala-%23E32F27.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)

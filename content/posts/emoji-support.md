@@ -1,7 +1,8 @@
 +++
+draft=true
 authors = ["Lone Coder"]
 title = "Emoji Support"
-date = "2023-07-07"
+date = "2026-07-07"
 description = "Guide to emoji usage in Hugo"
 tags = [
     "hugo",

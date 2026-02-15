@@ -1,4 +1,5 @@
 +++
+draft=true
 authors = ["Programador Solitário"]
 title = "Texto de Exemplo"
 date = "2023-07-05"
