@@ -1,7 +1,6 @@
 +++
 title = "About"
 description = "About me section"
-date = "2026-02-26"
 aliases = ["about-us", "about-ricardo", "contact"]
 +++
 
@@ -18,8 +17,10 @@ I firmly believe that cloud provider portals are great for learning, but **Terra
 ### 🛠 Tech Stack
 
 #### **Data Engineering & Orchestration**
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=for-the-badge&logo=databricks&logoColor=white)
 
